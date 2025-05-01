@@ -1,6 +1,10 @@
 ![Welcome](./hello_me.png)
-![Demo](Git.gif)
 
+
+
+<p align="center">
+  <img src="Git.giff" width="300" alt="Intro GIF"/>
+</p>
 
 
 
