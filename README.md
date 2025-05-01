@@ -1,6 +1,6 @@
 <!-- Resize your PNG using HTML instead of Markdown -->
 <p align="center">
-  <img src="./hello_me.png" width="500" alt="Welcome"/>
+  <img src="./hello_me.png" width="1000" height="200"  alt="Welcome"/>
 </p>
 
 <p align="center">
