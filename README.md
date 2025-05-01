@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Git.giff" width="300" alt="Intro GIF"/>
+  <img src="Git.gif" width="300" alt="Intro GIF"/>
 </p>
 
 
