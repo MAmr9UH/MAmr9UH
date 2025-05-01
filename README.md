@@ -1,5 +1,5 @@
 ![Welcome](./hello_me.png)
-![Demo](git.gif)
+![Demo](Git.gif)
 
 
 
