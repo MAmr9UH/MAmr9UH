@@ -1,6 +1,4 @@
-# 👋 Hey, I'm Mohamed
+![Welcome](./hello_me.png)
 
-![Welcome](./welcome.gif)
-
-Wanna explore my projects? Scroll down and enjoy! 🚀  
-Feel free to connect or give feedback 😊
+### Hey, I'm Mohamed 👋  
+Wanna explore my projects? Scroll down!
