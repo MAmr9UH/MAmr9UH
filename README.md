@@ -1,7 +1,7 @@
 <!-- Combined container -->
 <div align="center" style="margin: 0; padding: 0; line-height: 0;">
   <img src="v2.gif" width="300" alt="v2.gif" style="display: block; margin: 0; padding: 0;"/>
-  <img src="./hello_me.png" width="300" height="300" alt="Welcome" style="display: block; margin: 0; padding: 0;"/>
+  <img src="./hello_me.png" width="300" height="500" alt="Welcome" style="display: block; margin: 0; padding: 0;"/>
 </div>
 
 <!-- Optional Text -->
