@@ -1,27 +1,11 @@
-<!-- 🚀 1) Full-width banner -->
+this is my codde <!-- Resize your PNG using HTML instead of Markdown -->
 <p align="center">
-  <img src="./hello_me.png" width="100%" height="350" alt="Galaxy banner"/>
+  <img src="./hello_me.png" width="1000" height="350"  alt="Welcome"/>
 </p>
 
-<!-- ⭐ 2) Two-column row: square avatar | GIF -->
-<table width="100%">
-  <tr>
-    <!-- Left cell – square avatar -->
-    <td align="center" valign="top" width="50%">
-      <!-- 👇 make sure this file really exists and the name matches exactly (case-sensitive!) -->
-      <img src="./hello_me.png"  <!-- or hello_me_square.png if you actually have that file -->
-           width="260" height="260"
-           alt="Mr M avatar"/>
-    </td>
+<p align="center">
+  <img src="Git.gif" width="300" alt="Intro GIF"/>
+</p>
 
-    <!-- Right cell – GIF -->
-    <td align="center" valign="top" width="50%">
-      <img src="./Git.gif"
-           width="260"
-           alt="Animated Mr M"/>
-    </td>
-  </tr>
-</table>
-
-<!-- 🎉 3) Greeting -->
-<h3 align="center">Hello World, I'm Mr M 👋</h3>
+### Hey, I'm Mr M 👋  
+Wanna explore my projects? Scroll down!
