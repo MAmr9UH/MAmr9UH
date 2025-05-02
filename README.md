@@ -7,5 +7,5 @@
   <img src="Git.gif" width="300" alt="Mr. M"/>
 </p>
 
-<h3 align="left">Hey, I'm Mr M 👋</h3>
+<h3 align="left">Hello World, I'm Mr M 👋</h3>
 
