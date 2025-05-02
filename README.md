@@ -7,5 +7,5 @@ this is my codde <!-- Resize your PNG using HTML instead of Markdown -->
   <img src="Git.gif" width="300" alt="Intro GIF"/>
 </p>
 
-### Hey, I'm Mr M 👋  
-Wanna explore my projects? Scroll down!
+### Hello world, I'm Mr M 👋  
+
