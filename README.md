@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="Git.gif" width="300" alt="Intro GIF"/>
+  <img src="v2.gif" width="300" alt="Intro GIF"/>
 </p>
 
 ### Hello world, I'm Mr M 👋  
