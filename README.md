@@ -1,10 +1,19 @@
-<!-- Fake background using a full-width galaxy image -->
-<p align="center">
-  <img src="./hello_me.png" width="100%" height="350" alt="Galaxy"/>
-</p>
 
-<p align="center">
-  <img src="Git.gif" width="300" alt="Mr. M"/>
-</p>
+<!-- GitHub still allows the obsolete `background` attribute in <td>.
+     Inline style is kept very minimal so it survives sanitation. -->
+<table width="100%">
+  <tr>
+    <td
+      align="center"
+      background="./hello_me.png"
+      style="padding: 40px 0;"
+    >
+      <img src="Git.gif" width="220" alt="Mr M waving"/>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Hello World, I'm Mr M 👋</h3>
+<h3 align="center">
+  Hello World, I'm Mr M 👋
+</h3>
+
