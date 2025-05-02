@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Mr. M's Projects</title>
   <style>
     body {
       margin: 0;
       font-family: sans-serif;
-      background-image: url('hello_me.png'); /* Galaxy image */
+      background-image: url('hello_me.png');
       background-size: cover;
       background-position: center;
       height: 100vh;
@@ -15,7 +15,7 @@
       text-align: center;
     }
     .overlay {
-      background-color: rgba(0, 0, 0, 0.6); /* optional dark overlay */
+      background-color: rgba(0, 0, 0, 0.6);
       padding-top: 100px;
       height: 100%;
     }
@@ -27,13 +27,41 @@
       font-size: 2.5rem;
       margin-top: 20px;
     }
+    p {
+      font-size: 1.2rem;
+    }
+    .cursor {
+      display: inline-block;
+      margin-left: 5px;
+      animation: blink 1s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
   </style>
 </head>
 <body>
   <div class="overlay">
-    <img class="character" src="Git.gif" alt="Mr. M">
-    <h1>Hey, I'm Mr M 👋</h1>
+    <img class="character" src="Git.gif" alt="Mr. M" />
+    <h1><span id="typed-text"></span><span class="cursor">|</span></h1>
     <p>Wanna explore my projects? Scroll down!</p>
   </div>
+
+  <script>
+    const text = "Hey, I'm Mr M 👋";
+    const speed = 80;
+    let i = 0;
+
+    function typeWriter() {
+      if (i < text.length) {
+        document.getElementById("typed-text").textContent += text.charAt(i);
+        i++;
+        setTimeout(typeWriter, speed);
+      }
+    }
+
+    window.onload = typeWriter;
+  </script>
 </body>
 </html>
