@@ -6,7 +6,7 @@
 
 <!-- Background Image -->
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="./hello_me.png" width="1000" height="450" alt="Welcome" style="display: block; margin: 0; padding: 0;"/>
+  <img src="./hello_me.png" width="500" height="300" alt="Welcome" style="display: block; margin: 0; padding: 0;"/>
 </p>
 
 
