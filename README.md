@@ -4,3 +4,10 @@
 </p>
 <!-- Optional Text -->
 <h3 align="left" style="margin-top: 0;">Hello world, I'm Mr M 👋</h3>
+<h3 align="left" style="margin-top: 0;" Deep Learning • Machine Learning • AWS • Spatial Statistics 👋</h3>
+
+Certifications
+AWS Certified Solutions Architect Associate. View Certificate 
+COMPTIA Security + 701
+AWS Cloud Competition 2025 – 3rd Place Winner View Certificate 
+
