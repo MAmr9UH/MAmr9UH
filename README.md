@@ -1,6 +1,6 @@
 <!-- GIF with no space below -->
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="v2.gif" width="400" alt="v2.gif" style="display: block; margin: 0; padding: 0;" />
+  <img src="v2.gif" width="200" alt="v2.gif" style="display: block; margin: 0; padding: 0;" />
 </p>
 
 <!-- Optional Text -->
