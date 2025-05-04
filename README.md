@@ -11,6 +11,6 @@
 <p align="left">
   🏅 <strong>Certifications</strong><br>
   - AWS Certified Solutions Architect Associate – <a href="#">View Certificate</a><br>
-  - COMPTIA Security+ 701<br>
+  - AWS Certified Machine Learning - Specialty <br>
   - AWS Cloud Competition 2025 – 3rd Place Winner – <a href="#">View Certificate</a>
 </p>
