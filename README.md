@@ -10,7 +10,7 @@
 <!-- Certifications Section -->
 <p align="left">
   🏅 <strong>Certifications</strong><br>
-  - AWS Certified Solutions Architect Associate – <a href="#">
-  - AWS Certified Machine Learning - Specialty <br>
-  - AWS Cloud Competition 2025 – 3rd Place Winner – <a href="#">
+  - AWS Certified Solutions Architect – Associate – <a href="#">View Certificate</a><br>
+  - AWS Certified Machine Learning – Specialty – <a href="#">View Certificate</a><br>
+  - AWS Cloud Competition 2025 – 3rd Place Winner – <a href="#">View Certificate</a>
 </p>
