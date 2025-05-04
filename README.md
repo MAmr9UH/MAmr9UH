@@ -4,7 +4,7 @@
 </p>
 
 <!-- Optional Text -->
-<h3 align="left" style="margin-top: 0;">Hello world, I'm Amr 👋</h3>
+<h3 align="left" style="margin-top: 0;">Hello, I'm Amr 👋</h3>
 <h4 align="left" style="margin-top: 0;">Deep Learning • Machine Learning • AWS • Spatial Statistics</h4>
 
 <!-- Certifications Section -->
