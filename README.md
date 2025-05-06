@@ -5,7 +5,7 @@
 
 <!-- Optional Text -->
 <h3 align="left" style="margin-top: 0;">Hello, I'm Amr 👋</h3>
-<h4 align="left" style="margin-top: 0;">Deep Learning • Machine Learning • AWS • Spatial Statistics</h4>
+<h4 align="left" style="margin-top: 0;">Deep Learning • Machine Learning • AWS • Spatial Statistics , Causal Inference</h4>
 
 <!-- Certifications Section -->
 <p align="left">
