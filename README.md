@@ -5,7 +5,7 @@
 
 <!-- Optional Text -->
 <h2 align="left" style="margin-top: 0;">Hello, I'm Amr 👋</h2>
-<h3 align="left" style="margin-top: 0;">Deep Learning • Machine Learning • AWS • Spatial Statistics , Causal Inference</h3>
+<h3 align="left" style="margin-top: 0;">Deep Learning • Machine Learning • AWS •     <!-- Spatial Statistics , Causal Inference -->   </h3>
 
 <!-- Certifications Section -->
 <p align="left">
@@ -13,7 +13,7 @@
   
   - AWS Certified Solutions Architect – Associate
   
-  - AWS Certified Machine Learning – Specialty
+  <!-- AWS Certified Machine Learning – Specialty -->
     
   - AWS Cloud Competition 2025 – 3rd Place Winner
 </p>
