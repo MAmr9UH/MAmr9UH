@@ -1,6 +1,5 @@
-GIF with no space below -->
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="V66 (1).gif" width="300" alt="V66 (1).gif" style="display: block; margin: 0; padding: 0;" />
+  <img src="V66_.gif" width="300" alt="V66_.gif" style="display: block; margin: 0; padding: 0;" />
 </p>
 
 <!-- Optional Text -->
