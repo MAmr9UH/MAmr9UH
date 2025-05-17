@@ -15,5 +15,5 @@
   <!-- AWS Certified Machine Learning – Specialty -->
     
   - AWS Cloud Competition Cloudathon 2025 – 3rd Place Winner
-</p>.    "images name i1 i2"
+</p>.    
 "
