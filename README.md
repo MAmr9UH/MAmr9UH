@@ -16,3 +16,11 @@
   – AWS Certified Solutions Architect – Associate<br>
   – AWS Cloud Competition Cloudathon 2025 – 3rd Place Winner
 </p>
+
+
+<p align="left">
+  
+🧪 Currently Working On: Agentic Ai Systems,   Semantic Segmentation , Deep Learning Approaches
+
+
+</p>
