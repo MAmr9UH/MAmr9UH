@@ -20,6 +20,6 @@
 
 <p align="left">
   
-🧪 Currently Working On: Agentic Ai Systems,   Semantic Segmentation , Deep Learning Approaches
+🧪 Currently Working On: Semantic Segmentation , Deep Learning Approaches, Quantum Computing Optimization.
 
 </p>
