@@ -20,6 +20,6 @@
 
 <p align="left">
   
-🧪 Currently Working On: Semantic Segmentation , Deep Learning Approaches, Quantum Computing Optimization.
+🧪 Currently Working On: Deep Learning Approaches, Quantum Computing Optimization.
 
 </p>
