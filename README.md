@@ -18,6 +18,7 @@
   🏅 <strong>Certifications</strong><br><br>
 
   – AWS Certified Solutions Architect – Associate<br>
+  
   – AWS Cloud Competition Cloudathon 2025 – 3rd Place Winner
   
   – AWS Certified Machine Learning Specialist
