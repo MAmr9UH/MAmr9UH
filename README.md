@@ -27,6 +27,6 @@
 
 <p align="left">
   
-🧪 Currently Working On: Deep Learning Approaches, Quantum Computing Optimization.
+🧪 Currently Working On: Deep Learning Approaches, Optimization Problems .
 
 </p>
